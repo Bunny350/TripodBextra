@@ -1,10 +1,10 @@
 # TripodBextra
 TripodBextra is a tripod that is intended to look completely different.
 Work in progress.
-[Close-look render of the center joint of TripodBextra](Media/tpodbextra-top.PNG)
-[TripodBextra badge](Media/tpodbextra-badge.PNG)
-[Folded TripodBextra](Media/tpodbextra-folded.PNG)
-[Expanded TripodBextra or unfolded](Media/tpodbextra-expanded.PNG)
+![Close-look render of the center joint of TripodBextra](Media/tpodbextra-top.PNG)
+![TripodBextra badge](Media/tpodbextra-badge.PNG)
+![Folded TripodBextra](Media/tpodbextra-folded.png)
+![Expanded TripodBextra or unfolded](Media/tpodbextra-expanded.png)
 
 ## Project goal
 This project has multiple goals, including:
